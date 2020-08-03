@@ -1,0 +1,7 @@
+D:\DotNetConsoleApps\GameInheritence\GameInheritence\bin\Debug\GameInheritence.exe.config
+D:\DotNetConsoleApps\GameInheritence\GameInheritence\bin\Debug\GameInheritence.exe
+D:\DotNetConsoleApps\GameInheritence\GameInheritence\bin\Debug\GameInheritence.pdb
+D:\DotNetConsoleApps\GameInheritence\GameInheritence\obj\Debug\GameInheritence.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\GameInheritence\GameInheritence\obj\Debug\GameInheritence.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\GameInheritence\GameInheritence\obj\Debug\GameInheritence.exe
+D:\DotNetConsoleApps\GameInheritence\GameInheritence\obj\Debug\GameInheritence.pdb

@@ -1,0 +1,10 @@
+D:\DotNetConsoleApps\Assign3\Assign3\bin\Debug\Assign3.exe.config
+D:\DotNetConsoleApps\Assign3\Assign3\bin\Debug\Assign3.exe
+D:\DotNetConsoleApps\Assign3\Assign3\bin\Debug\Assign3.pdb
+D:\DotNetConsoleApps\Assign3\Assign3\bin\Debug\Sample.dll
+D:\DotNetConsoleApps\Assign3\Assign3\bin\Debug\Sample.pdb
+D:\DotNetConsoleApps\Assign3\Assign3\obj\Debug\Assign3.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\Assign3\Assign3\obj\Debug\Assign3.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\Assign3\Assign3\obj\Debug\Assign3.csproj.CopyComplete
+D:\DotNetConsoleApps\Assign3\Assign3\obj\Debug\Assign3.exe
+D:\DotNetConsoleApps\Assign3\Assign3\obj\Debug\Assign3.pdb
