@@ -1,0 +1,4 @@
+11 aug 2020
+
+Create a dll which has 4 function like add, sub,division,multiplication and two properties
+ ---------->give reference of this dll to another windows form and call the methods and display the output
